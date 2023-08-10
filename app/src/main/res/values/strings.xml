@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StayWeeb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1423106478533734</string>
+    <string name="facebook_client_token">e6a4634efd14339e6d73c5f15dcfd506</string>
+
+
+</resources>

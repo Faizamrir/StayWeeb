@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/list_fragment"
+        android:title="List Anime"
+        android:icon="@drawable/list" />
+    <item
+        android:id="@+id/ranking_fragment"
+        android:title="Ranking Anime"
+        android:icon="@drawable/rank"/>
+</menu>
